@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Karahan",
+  "classifications": [ "WebAPI", "Clean Architecture", ".NET" ],
+  "identity": "Karahan.MyApiTemplate",
+  "name": "Karahan MyApi Clean Architecture Template",
+  "shortName": "myapi",
+  "sourceName": "MyApiTemplate",
+  "preferNameDirectory": true
+}

@@ -7,11 +7,8 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<Folder Include="Helper\" />
-		<Folder Include="Mappings\" />
-		<Folder Include="Dtos\" />
+		<Folder Include="Features\" />
 		<Folder Include="Services\" />
-		<Folder Include="Settings\" />
 	</ItemGroup>
 
 	<ItemGroup>

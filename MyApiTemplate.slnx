@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/.template.config/">
+    <File Path="template.json" />
+  </Folder>
   <Project Path="Application/Application.csproj" />
   <Project Path="Domain/Domain.csproj" />
   <Project Path="Infrastructure/Infrastructure.csproj" />
